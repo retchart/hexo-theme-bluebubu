@@ -1088,7 +1088,7 @@ footer .copyright a:hover { color: #666; }
     top: 11px;
     width: 7px;
     height: 8px;
-    background: url(../images/icon_dot.jpg) no-repeat left center #fff;
+    background: url(../images/icon_dot.png) no-repeat left center #fff;
 }
 
 .arCatalog-list dd.on .arCatalog-dot {
@@ -1097,7 +1097,7 @@ footer .copyright a:hover { color: #666; }
     top: 6px;
     width: 16px;
     height: 16px;
-    background: url(../images/icon_doton.jpg) no-repeat left center;
+    background: url(../images/icon_doton.png) no-repeat left center;
 }
 
 .arCatalog-list .arCatalog-tack2 { padding-left: 17px; }
