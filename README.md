@@ -1,6 +1,6 @@
 ## 说明
 
-hexo-theme-bluebubu主题是根据hexo里hexo-theme-bubuzou 主题（进一步基于Apollo主题）改编而来的，[主题效果](http://retchart.github.io)
+hexo-theme-bluebubu主题是根据hexo里[hexo-theme-bubuzou主题](https://github.com/Bulandent/hexo-theme-bubuzou)(进一步基于[Apollo主题](https://github.com/pinggod/hexo-theme-apollo))改编而来的. [主题效果](https://retchart.github.io)
 
 ## 安装
 想要把hexo的主题应用到自己的博客上，需要在本地先构建好hexo所依赖的环境。[hexo使用文档](https://hexo.io/zh-cn/docs/index.html)
