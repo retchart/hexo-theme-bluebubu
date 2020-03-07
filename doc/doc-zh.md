@@ -22,6 +22,7 @@ demo: ../../../demos/201703/background.html
 
 如果你想创建文章摘要用于向读者展示文章的核心内容，那么需要在文章摘要之后其他内容之前添加 HTML 注释标签 `<!--more-->`，使用方法如下图所示：
 
+```md
 ---
 title: Hello bluebubu
 date: 2020-03-06 14:40:44
@@ -36,6 +37,7 @@ This is abstract. Test with hexo theme "bluebubu".
 
 <!-- more -->  
 This is content. It seems intresting!
+```
 
 ## 评论插件
 
