@@ -1,0 +1,39 @@
+menu:
+    博文: /
+    归档: /archives/
+    # 生活: /categories/live/
+    # 摄影: /categories/film/
+    关于: /about/
+
+widgets:
+- category
+- tag
+- tagcloud
+- archive
+
+# count
+show_count: true
+favicon: /images/favicon.png
+logo: /images/logo.png
+
+# Comment
+# changyan: bluebubu
+leancloud:
+    # appid: CeQcHm06Cqw8S4TVIFz13I0l-gzGzoHsz # 填写您的appid
+    # appkey: 22NHa1t14BeDDhx4xDx5AKwq # 填写您的appkey
+    appid: aD8jJBpu4oew3ovNY73z6Rdq-gzGzoHsz # bubuzou的appid
+    appkey: FdzS5SOPHdhYQoEUngQ8K2QW # bubuzou的appkey
+    comment: false # 是否开启评论系统
+    timer: true # 是否开启文章统计k
+
+# busuanzi 访问量计数
+busuanzi:
+    enable: true
+
+# Analytics
+# google-analytics:
+ga: UA-65933410-1
+
+# Copyright Infomation
+startyear: 2020
+
