@@ -4,13 +4,13 @@ mixin postInfo(item)
         if theme.leancloud.timer
             p.visit
                 i(class="article-timer", data-identity=item.path)
-                span 次访问
+                span 阅读
 
             //- if (is_home())
             //-     i(data-hk-page='https://retchart.github.io'+url_for(item.path)) -
             //- else 
             //-     i(data-hk-page="current") -
-            //- span 次访问
+            //- span 阅读
         if item.from && (is_home() || is_post())
             a.post-from(href=item.from target="_blank" title=item.from) 原文地址
         if item.demo && ( is_home() || is_post() )
